@@ -18,6 +18,8 @@
   📱 Instagram
 </a>
 
+<br>
+
 🧠 Focar no conhecimento é a melhor forma de investirmos em nós mesmo, por isso estou
   sempre tentando me atualizar e superar meus limites
 
