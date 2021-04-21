@@ -12,12 +12,13 @@
 <h2>Meus contatos 📱</h2>
 
 <a href="https://www.linkedin.com/in/anderson-silva-b7870520b/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="anderson_linkedin" width="30" height="40"
-       style="max-width:100%;">
+  📱 Linkedin
 </a>
 
+<br>
+
 <a href="https://www.instagram.com/and_silva7/" target="_blank">
-  💻
+  📱 Instagram
 </a>
 
 
