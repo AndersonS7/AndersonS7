@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/AndersonS7/AndersonS7/blob/main/img/man-computer.png" width="350"/>
 
-- 😄 Faço parte da equipe [Brisanet](https://www.brisanet.com.br/)
+- 😄 Faço parte da equipe [Brisanet](https://www.brisanet.com.br/) atuando no setor de projetos FTTH
 - 👨🏻‍💻 Sou um entusiasta do desenvolvimento web
 - 👨🏻‍🎓 Sou graduado em Administração 
   
