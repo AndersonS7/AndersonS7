@@ -1,4 +1,4 @@
-###Fala dev! Como vão as coisas? 👋😉
+<h1>Fala dev! Como vão as coisas? 👋😉</h1>
 
 <img align="right" src="https://github.com/AndersonS7/AndersonS7/blob/main/img/man-computer.png" width="350"/>
 
@@ -10,7 +10,8 @@
   sempre tentando me atualizar e superar meus limites
 
 <a href="https://www.linkedin.com/in/anderson-silva-b7870520b/" target="_blank">
-  <i class="devicon-linkedin-plain colored"></i>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="anderson_linkedin" width="30" height="40"
+       style="max-width:100%;">
 </a>
 
 
