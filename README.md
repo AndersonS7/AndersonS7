@@ -22,7 +22,7 @@
   
   Recentemente, comecei a estudar a biblioteca React junto com conceitos de UI, com o objetivo de poder criar projetos profissionais.
   
-  Por enquanto, ainda possuo um conhecimento básico nas tecnologias citadas acima, 
+  Por enquanto, ainda possuo um conhecimento básico nas tecnologias citadas acima, <br>
   porém estou sempre buscando me atualizar, fazendo cursos como os da rocketseat a fim de
   chegar ao próximo nível
 </P>
@@ -38,13 +38,6 @@
 <a href="https://www.instagram.com/and_silva7/" target="_blank">
   📱 Instagram
 </a>
-
-<br>
-<br>
-<hr>
-
-🧠 Focar no conhecimento é a melhor forma de investirmos em nós mesmo, por isso estou
-  sempre tentando me atualizar e superar meus limites.
 
 <!--
 **AndersonS7/AndersonS7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
