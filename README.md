@@ -14,6 +14,10 @@
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/>
 </div>
+
+<br>
+<br>
+
 <p>
   Atualmente estou focado em aprender as principais tecnologias voltadas ao desenvolvimento Front-end, tais como, JavaScript, html, css.
 </p>
