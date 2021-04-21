@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonS7&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-- 😄 [Brisanet](http://assine.brisanet.com.br/vendas/)
+- 😄 [Brisanet](https://www.brisanet.com.br/)
 
 
 <!--
