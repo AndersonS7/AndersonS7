@@ -10,14 +10,14 @@
   sempre tentando me atualizar e superar meus limites
 
 <a href="https://www.linkedin.com/in/anderson-silva-b7870520b/" target="_blank">
-  a
+  Linkedin
 </a>
-[![Linkedin Badge](https://www.linkedin.com/in/anderson-silva-b7870520b/)
-[![Instagram Badge](https://www.instagram.com/and_silva7/)
+
 
 <!--
 **AndersonS7/AndersonS7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Linkedin Badge](https://www.linkedin.com/in/anderson-silva-b7870520b/)
+[![Instagram Badge](https://www.instagram.com/and_silva7/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
