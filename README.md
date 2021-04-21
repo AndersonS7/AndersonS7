@@ -9,7 +9,7 @@
 <h2>Tecnologias ⚙️</h2>
 
 <div>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="30" style="margin-rigth: 50px;"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="30" style="margin: 50px;"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="30" style="margin-rigth: 5px;"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30" style="margin-rigth: 5px;"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" style="margin-rigth: 5px;"/>
