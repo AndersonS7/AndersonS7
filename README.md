@@ -1,12 +1,14 @@
-### Hi there 👋
+### Fala dev! Como vão as coisas? 👋😉
 
 <img align="right" src="https://github.com/AndersonS7/AndersonS7/blob/main/img/man-computer.png" width="350"/>
 
-[![Anderson's github stats](https://github-readme-stats.vercel.app/api?username=AndersonS7&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonS7&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
 - 😄 [Brisanet](https://www.brisanet.com.br/)
+
+- 💼 Faço parte da equipe [Brisanet]
+- 👨🏻‍💻 Sou um entusiasta do desenvolvimento web
+- Sou graduado em Administração 
+🧠 Focar no conhecimento é a melhor forma de investirmos em nós mesmo, por isso estou
+  sempre tentando me atualizar e superar meus limites
 
 
 <!--
