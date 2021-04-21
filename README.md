@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://raw.githubusercontent.com/AndersonS7/AndersonS7/master/img/main-computer.png" width="350"/>
+<img align="right" src="https://github.com/AndersonS7/AndersonS7/blob/main/img/man-computer.png" width="350"/>
 
 [![Anderson's github stats](https://github-readme-stats.vercel.app/api?username=AndersonS7&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonS7&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
