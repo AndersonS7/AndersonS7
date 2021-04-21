@@ -5,9 +5,6 @@
 - 😄 Faço parte da equipe [Brisanet](https://www.brisanet.com.br/)
 - 👨🏻‍💻 Sou um entusiasta do desenvolvimento web
 - 👨🏻‍🎓 Sou graduado em Administração 
-
-🧠 Focar no conhecimento é a melhor forma de investirmos em nós mesmo, por isso estou
-  sempre tentando me atualizar e superar meus limites
   
 <h2>Meus contatos 📱</h2>
 
@@ -21,6 +18,8 @@
   📱 Instagram
 </a>
 
+🧠 Focar no conhecimento é a melhor forma de investirmos em nós mesmo, por isso estou
+  sempre tentando me atualizar e superar meus limites
 
 <!--
 **AndersonS7/AndersonS7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
