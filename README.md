@@ -14,6 +14,12 @@
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/>
 </div>
+<p>
+  Atualmente estou focado em aprender as principais tecnologias voltadas ao desenvolvimento Front-end, tais como, JavaScript, html, css.
+</p>
+<p>
+  Recentemente, comecei a estudar a biblioteca React, com o objetivo de poder criar projetos profissionais, também comecei a estudar conceitos de UI. Por enquanto, ainda possuo   um conhecimento básico nas tecnologias citadas acima, porém estou sempre buscando me atualizar, fazendo cursos como os da rocketseat a fim de chegar ao próximo nível
+</P>
   
 <h2>Meus contatos 📱</h2>
 
