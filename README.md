@@ -32,7 +32,7 @@
 <hr>
 
 🧠 Focar no conhecimento é a melhor forma de investirmos em nós mesmo, por isso estou
-  sempre tentando me atualizar e superar meus limites
+  sempre tentando me atualizar e superar meus limites.
 
 <!--
 **AndersonS7/AndersonS7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
