@@ -2,14 +2,18 @@
 
 <img align="right" src="https://github.com/AndersonS7/AndersonS7/blob/main/img/man-computer.png" width="350"/>
 
-- 😄 [Brisanet](https://www.brisanet.com.br/)
-
-- 💼 Faço parte da equipe [Brisanet]
+- 💼😄 Faço parte da equipe [Brisanet](https://www.brisanet.com.br/)
 - 👨🏻‍💻 Sou um entusiasta do desenvolvimento web
-- Sou graduado em Administração 
+- 👨🏻‍🎓 Sou graduado em Administração 
+
 🧠 Focar no conhecimento é a melhor forma de investirmos em nós mesmo, por isso estou
   sempre tentando me atualizar e superar meus limites
 
+<a href="https://www.linkedin.com/in/anderson-silva-b7870520b/" target="_blank">
+  a
+</a>
+[![Linkedin Badge](https://www.linkedin.com/in/anderson-silva-b7870520b/)
+[![Instagram Badge](https://www.instagram.com/and_silva7/)
 
 <!--
 **AndersonS7/AndersonS7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
