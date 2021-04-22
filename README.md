@@ -4,7 +4,7 @@
 
 - 😄 Faço parte da equipe [Brisanet](https://www.brisanet.com.br/) atuando no setor de projetos FTTH
 - 👨🏻‍💻 Sou um entusiasta do desenvolvimento web
-- 👨🏻‍🎓 Sou graduado em Administração 
+- 👨🏻‍🎓 Graduado em Administração 
   
 <h2>Tecnologias ⚙️</h2>
 
