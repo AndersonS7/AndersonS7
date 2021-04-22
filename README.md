@@ -38,7 +38,7 @@
 <br>
 
 <a href="https://www.instagram.com/and_silva7/" target="_blank">
-  📱 Instagram
+  <img align="center" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1619090807~hmac=271d3e1eed1a79526b1a6d102d45ff9d" width="30"/>
 </a>
 
 <!--
