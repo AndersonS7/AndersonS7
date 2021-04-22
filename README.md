@@ -14,6 +14,7 @@
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="30"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="30"/>
 </div>
 
 <br>
@@ -31,7 +32,7 @@
 <h2>Meus contatos 📱</h2>
 
 <a href="https://www.linkedin.com/in/anderson-silva-b7870520b/" target="_blank">
-  📱 Linkedin
+  <img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1409/1409946.svg?token=exp=1619090727~hmac=7fc0d77f2375df8c4e0537de1fa349fa" width="30"/>
 </a>
 
 <br>
