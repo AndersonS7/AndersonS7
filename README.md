@@ -25,7 +25,7 @@
   Recentemente, comecei a estudar a biblioteca React junto com conceitos de UI, com o objetivo de poder criar projetos profissionais.
   
   Por enquanto, ainda possuo um conhecimento básico nas tecnologias citadas acima, <br>
-  porém estou sempre buscando me atualizar, fazendo cursos como os da rocketseat a fim de
+  porém estou sempre buscando me atualizar, <br> fazendo cursos como os da rocketseat a fim de
   chegar ao próximo nível
 </P>
   
