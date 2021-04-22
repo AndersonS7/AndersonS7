@@ -35,9 +35,6 @@
   <a href="https://www.linkedin.com/in/anderson-silva-b7870520b/" target="_blank">
     <img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1409/1409946.svg?token=exp=1619090727~hmac=7fc0d77f2375df8c4e0537de1fa349fa" width="30"/>
   </a>
-
-  <br>
-
   <a href="https://www.instagram.com/and_silva7/" target="_blank">
     <img align="center" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1619090807~hmac=271d3e1eed1a79526b1a6d102d45ff9d" width="30"/>
   </a>
