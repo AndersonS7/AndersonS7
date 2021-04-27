@@ -33,10 +33,11 @@
 
 <div>
   <a href="https://www.instagram.com/and_silva7/" target="_blank">
-    ###instagram
+    instagram
   </a>
+  <br>
   <a href="https://www.linkedin.com/in/anderson-silva-b7870520b/" target="_blank">
-    ###Linkedin
+    Linkedin
   </a>
 </div>
 
