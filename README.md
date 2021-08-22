@@ -5,10 +5,12 @@
 - 😄 Faço parte da equipe [Brisanet](https://www.brisanet.com.br/) atuando como Projetista de CAD FTTH
 - 👨🏻‍💻 Sou um entusiasta da programação
 - 👨🏻‍🎓 Graduado em Administração
-- 
+
 <h2>Tecnologias ⚙️</h2>
 
 <div>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+  <i class="devicon-unity-original"></i>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="30"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="30"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30"/>
