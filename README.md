@@ -2,10 +2,10 @@
 
 <img align="right" src="https://github.com/AndersonS7/AndersonS7/blob/main/img/man-computer.png" width="350"/>
 
-- 😄 Faço parte da equipe [Brisanet](https://www.brisanet.com.br/) atuando no setor de projetos FTTH
-- 👨🏻‍💻 Sou um entusiasta do desenvolvimento web
-- 👨🏻‍🎓 Graduado em Administração 
-  
+- 😄 Faço parte da equipe [Brisanet](https://www.brisanet.com.br/) atuando como Projetista de CAD FTTH
+- 👨🏻‍💻 Sou um entusiasta da programação
+- 👨🏻‍🎓 Graduado em Administração
+- 
 <h2>Tecnologias ⚙️</h2>
 
 <div>
@@ -20,13 +20,17 @@
 <br>
   
 <p>
-  Atualmente estou focado em aprender as principais tecnologias voltadas ao desenvolvimento Front-end, tais como, JavaScript, html, css.
-  
-  Recentemente, comecei a estudar a biblioteca React junto com conceitos de UI, com o objetivo de poder criar projetos profissionais.
-  
-  Por enquanto, ainda possuo um conhecimento básico nas tecnologias citadas acima, <br>
-  porém estou sempre buscando me atualizar, <br> fazendo cursos como os da rocketseat a fim de
-  chegar ao próximo nível
+  Atualmente estou focado na busca pelo conhecimento das principais ferramentas e tecnologias
+  que envolvem o desenvolvimento de games.
+</p>
+<p>
+  Para isso, estou me especializando na linguagem de programação C Sharp e no motor de jogo Unity, ambos
+  muito utilizados no desenvolvimento de games.
+ </p>
+ <p>
+  Embora esteja iniciando meus estudos em C Sharp, não sou iniciante na área da programação. Tive algumas experiências
+  no desenvolvimento web, com a linguagem JavaScript e as 
+  tecnologias HTML e CSS, também com framework como Bootstrap 4 e bibliotecas como React e React Native. 
 </P>
   
 <h2>Meus contatos 📱</h2>
