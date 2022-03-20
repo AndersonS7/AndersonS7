@@ -2,35 +2,27 @@
 
 <img align="right" src="https://github.com/AndersonS7/AndersonS7/blob/main/img/man-computer.png" width="350"/>
 
-- 😄 Faço parte da equipe [Brisanet](https://www.brisanet.com.br/) atuando como Projetista de CAD FTTH
-- 👨🏻‍💻 Sou um entusiasta da programação
-- 👨🏻‍🎓 Graduado em Administração
+- 😄 Trabalho a 3 anos na empresa [Brisanet](https://www.brisanet.com.br/) como Projetista de CAD FTTH
+- 👨🏻‍💻 Sou um entusiasta no desenvolvimento de jogos digitais
+- 👨🏻‍🎓 Sou Graduado em Administração
 
-<h2>Tecnologias ⚙️</h2>
-
-<div>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="30"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="30"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="30"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30"/>
-</div>
+<h2>Resumo 📃</h2>
 
 <br>
   
 <p>
-  Atualmente estou focado na busca pelo conhecimento das principais ferramentas e tecnologias
-  que envolvem o desenvolvimento de games.
+  Trabalho há pouco mais de 3 anos em uma empresa de telecomunicações no estado do Rio Grande do Norte, onde foi possível adquirir conhecimentos e habilidades relacionados a trabalho em equipe e gerenciamento de projetos.
 </p>
 <p>
-  Para isso, estou me especializando na linguagem de programação C Sharp e no motor de jogo Unity, ambos
-  muito utilizados no desenvolvimento de games.
+  Sou programador focado em desenvolvimento de jogos digitais, porém ainda não atuo na área. Entretanto venho usando minhas horas vagas para dedicar-se a essa arte, criando pequenos projetos a fim de montar meu portfólio e adquirir mais experiência na área.
  </p>
- <p>
-  Embora esteja iniciando meus estudos em C Sharp, não sou iniciante na área da programação. Tive algumas experiências
-  no desenvolvimento web, com a linguagem JavaScript e as 
-  tecnologias HTML e CSS, também com framework como Bootstrap 4 e bibliotecas como React e React Native. 
-</P>
+ 
+ <h2>Tecnologias ⚙️</h2>
+
+<div>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="30"/>
+</div>
   
 <h2>Meus contatos 📱</h2>
 
