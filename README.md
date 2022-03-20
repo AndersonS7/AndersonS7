@@ -8,8 +8,6 @@
 
 <h2>Resumo 📃</h2>
 
-<br>
-  
 <p>
   Trabalho há pouco mais de 3 anos em uma empresa de telecomunicações no estado do Rio Grande do Norte, onde foi possível adquirir conhecimentos e habilidades relacionados a trabalho em equipe e gerenciamento de projetos.
 </p>
